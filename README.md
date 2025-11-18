@@ -94,8 +94,6 @@ A trained U-Net model capable of segmenting skin regions
 Binary predicted masks for all input images
 
 Stored results for further processing and evaluation
-Before:
-<img width="3840" height="2400" alt="leo messi" src="https://github.com/user-attachments/assets/93e94a60-7478-4006-9c8e-d69e04affccb" />
+Before:![leo messi](https://github.com/user-attachments/assets/70007491-8bdb-4da3-8236-bae040a54bf5)
 After:
-![leo messi](https://github.com/user-attachments/assets/70007491-8bdb-4da3-8236-bae040a54bf5)
-
+<img width="3840" height="2400" alt="leo messi" src="https://github.com/user-attachments/assets/93e94a60-7478-4006-9c8e-d69e04affccb" />
